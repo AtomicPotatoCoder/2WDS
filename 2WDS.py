@@ -1,5 +1,7 @@
 import pygame
 
+#test
+
 pygame.init()
 
 red = (255, 0, 0)
